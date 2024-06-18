@@ -1,6 +1,6 @@
 // just a meme - not a part of the challenge
 (() => {
-    const gif = `${window.location.origin}/static/koulis.gif`;
+    const gif = `${window.location.origin}/static/fr0g.gif`;
     const canvas = document.createElement('canvas');
     const ctx = canvas.getContext('2d');
     const image = new Image();
@@ -16,11 +16,11 @@
         ctx.lineWidth = 3;
         ctx.strokeStyle = '#000';
 
-        ctx.strokeText('Welcome to a place where love finds you', 90, 160);
-        ctx.fillText('Welcome to a place where love finds you', 90, 160);
+        ctx.strokeText('Welcome to a place where the baby has grown up', 90, 160);
+        ctx.fillText('Welcome to a place where the baby has grown up', 90, 160);
 
-        ctx.strokeText('Makelarides are feeling loved 😍', 113, 190);
-        ctx.fillText('Makelarides are feeling loved 😍', 113, 190);
+        ctx.strokeText('The baby has grown up into a frog', 113, 190);
+        ctx.fillText('The baby has grown up into a frog', 113, 190);
 
         ctx.font = 'normal 11px Consolas';
 

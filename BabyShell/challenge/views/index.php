@@ -33,5 +33,5 @@
 </body>
 <script src='//cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js' integrity='sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==' crossorigin='anonymous'></script> 
 <script src='/static/js/main.js'></script>
-<script src='/static/js/koulis.js'></script> <!-- Just a meme -->
+<script src='/static/js/fr0g.js'></script> <!-- Just a meme -->
 </html>
