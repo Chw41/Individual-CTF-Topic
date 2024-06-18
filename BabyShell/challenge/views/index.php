@@ -27,7 +27,7 @@
   <br>
   <span id='time'> <?= $time ?></span>
   <div class='form-group'>
-    <a href='?format=chw' class='btn-lg btn-danger btn-block text-center'>Nah, that doesn't work for me. Try again!</a>
+    <a href='?format=chw' class='btn-lg btn-danger btn-block text-center'>Don’t Press Me. Nothing Happened!</a>
   </div>
 </div>
 </body>
