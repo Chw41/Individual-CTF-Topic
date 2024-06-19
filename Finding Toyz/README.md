@@ -9,11 +9,11 @@ To deploy Finding Toyz using Docker Build, follow these steps:
 ### Clone the repository:
 ```
 git clone https://github.com/Chw41/Individual-CTF-Topic.git
-cd BabyShell
+cd Finding\ Toyz/
 ```  
 ### Using docker build to deploy the application
 ```
-docker build -t babyshell .
-docker run -d -p 80:80 babyshell
+docker build -t findingtoyz .
+docker run -d -p 80:80 findingtoyz
 ```
 
