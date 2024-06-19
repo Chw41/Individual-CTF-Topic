@@ -7,7 +7,7 @@
 │
 ├── BabyShell
 │   ├── README.md
-│   └── SourceCode (Dockerfile, PHP, js ...)
+│   └── SourceCode (Dockerfile, PHP, CSS ...)
 │
 └── Finding Toyz
     ├── README.md
