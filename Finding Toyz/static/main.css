@@ -1,9 +1,4 @@
 body {
-    /*
-    font-family: "微軟正黑體";
-    background-color: rgb(0, 0, 0);
-    text-align: center;
-    */ 
     font-family: "Press Start 2P", cursive;
     font-weight: 400;
     font-style: normal;
@@ -30,8 +25,8 @@ body {
     background-color: #F0F0F0;
     margin: 60px auto;
     display: flex;
-    justify-content: center; /* 水平居中對齊 */
-    align-items: center; /* 垂直居中對齊 */
+    justify-content: center; 
+    align-items: center; 
     border-radius: 10%; 
 }
 
@@ -55,32 +50,8 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
 }
 
-/*
-#Cell0 {
-    top: 50px;
-    left: 250px;
-    background-color: #4a4a4a; 
-    height: 400px;
-    width: 300px;
-    border: 10px solid #8b0000; 
-    border-top-left-radius: 20px; 
-    border-top-right-radius: 20px; 
-    position: absolute;   
-}
-*/
-/*
-#exit_55688, #exit_3450 {
-    height: 30px;
-    width: 50px;
-    background-color: rgb(130, 175, 130);
-    position: absolute;
-    display: none;
-    top: 370px;
-    left: 375px;
-    border-radius: 5%;
-} */
 
-#Cell1001, #Cell55688, #Cell2001, #Cell3001, #Cell2002, #Cell3401 {
+#Cell0001, #Cell1001, #Cell55688L, #Cell2001 {
     top: 50px;
     left: 150px;
     background-color: #4a4a4a; 
@@ -92,7 +63,19 @@ body {
     display: none;
 }
 
-#Cell1999, #Cell2000, #Cell2999, #Cell3999, #Cell2499, #Cell3450 {
+ #Cell3001, #Cell2002, #Cell3401, #Cell3402, #Cell4001 {
+    top: 50px;
+    left: 150px;
+    background-color: #4a4a4a; 
+    height: 300px;
+    width: 200px;
+    border: 10px solid #8b0000; 
+    border-radius: 5%;
+    position: absolute;
+    display: none;
+}
+
+#Cell0999,#Cell1999, #Cell2000, #Cell2999 {
     top: 50px;
     left: 450px;
     background-color: #4a4a4a;
@@ -104,6 +87,17 @@ body {
     display: none;
 }
 
+ #Cell3999, #Cell2499, #Cell3450, #Cell4999 ,#Cell55688R {
+    top: 50px;
+    left: 450px;
+    background-color: #4a4a4a;
+    height: 300px;
+    width: 200px;
+    border: 10px solid #8b0000; 
+    border-radius: 5%;
+    position: absolute;
+    display: none;
+}
 
 #nothing {
     height: 100px;
