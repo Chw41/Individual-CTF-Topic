@@ -6,12 +6,16 @@ This repo hosts my self-created CTF challenges, designed to test your skills in 
 .
 ├── README.md
 │
-├── BabyShell
-│   ├── README.md
-│   └── SourceCode (Dockerfile, PHP, CSS ...)
+├── [WEB] BabyShell
+│         ├── README.md
+│         └── SourceCode (Dockerfile, PHP, CSS ...)
 │
-└── Finding Toyz
-    ├── README.md
-    └── SourceCode (Dockerfile, HTML, js...)
+├── [WEB] Finding Toyz
+│         ├── README.md
+│         └── SourceCode (Dockerfile, HTML, js...)
+│
+└── [OSINT] Try Harder
+          ├── README.md
+          └── README_zh-tw.md
 
 ```
