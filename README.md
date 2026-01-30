@@ -18,7 +18,15 @@ This repo hosts my self-created CTF challenges, designed to test your skills in 
 │         ├── README.md
 │         └── SourceCode (Dockerfile, PHP, CSS ...)
 │
-└── [OSINT] Try Harder
+├── [WEB]Baby File Inclusion
+│         ├── README.md
+│         └── SourceCode (Dockerfile, PHP, CSS ...)
+│
+├── [OSINT] Try Harder
+│         ├── README.md
+│         └── README_zh-tw.md
+│
+└── [OSINT] Not Just Base64
           ├── README.md
           └── README_zh-tw.md
 
