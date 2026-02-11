@@ -18,7 +18,7 @@ This repo hosts my self-created CTF challenges, designed to test your skills in 
 │         ├── README.md
 │         └── SourceCode (Dockerfile, PHP, CSS ...)
 │
-├── [WEB]Baby File Inclusion
+├── [WEB] Baby File Inclusion
 │         ├── README.md
 │         └── SourceCode (Dockerfile, PHP, CSS ...)
 │
