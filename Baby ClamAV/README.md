@@ -1,8 +1,8 @@
 #  Baby ClamAV [BlackBox]
 
 ## Introduction
-AV can be a man's heaven or a security researcher's hell. \
-Sometimes, the hardest part isn’t writing the payload, but getting it past AV.
+AV can be a man's heaven or a security researcher's hell.\
+Crafting the payload is only half the battle; getting past AV is where the real challenge begins.
 
 ## Installation
 Reminder⚠️: `Black box challenge`\
