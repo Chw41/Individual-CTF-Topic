@@ -1,0 +1,1 @@
+www-data ALL=(appuser) NOPASSWD: /usr/local/bin/php -f /var/www/html/uploads/*

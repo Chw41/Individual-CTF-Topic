@@ -1,0 +1,4 @@
+# This file is intentionally not the real ruleset.
+#
+# The deployed instance loads a real /opt/sigs/custom.ndb that is NOT part
+# of this source bundle. Read check.php.
