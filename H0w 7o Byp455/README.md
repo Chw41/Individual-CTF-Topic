@@ -11,9 +11,9 @@ To deploy H0w 7o Byp455 using Docker Build, follow these steps:
 ### Clone the repository:
 ```
 git clone https://github.com/Chw41/Individual-CTF-Topic.git
-cd ...
+cd H0w 7o Byp455
 ```  
 ### Using docker build to deploy the application
 ```
-...
+docker compose up -d
 ```
