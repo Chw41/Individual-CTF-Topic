@@ -21,6 +21,14 @@ This repo hosts my self-created CTF challenges, designed to test your skills in 
 ├── [WEB] Baby File Inclusion
 │         ├── README.md
 │         └── SourceCode (Dockerfile, PHP, CSS ...)
+│ 
+├── [WEB] Baby ClamAV
+│         ├── README.md
+│         └── SourceCode (Dockerfile, Python, CSS ,solution  ...)
+│ 
+├── [WEB] H0w 7o Byp455
+│         ├── README.md
+│         └── SourceCode (Dockerfile, PHP, CSS ,solution ...)
 │
 ├── [OSINT] Try Harder
 │         ├── README.md
