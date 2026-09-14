@@ -12,9 +12,9 @@ To deploy Baby File Inclusion using Docker Build, follow these steps:
 ### Clone the repository:
 ```
 git clone https://github.com/Chw41/Individual-CTF-Topic.git
-cd ...
+cd Baby File Inclusion/
 ```  
 ### Using docker build to deploy the application
 ```
-...
+docker compose up -d
 ```
